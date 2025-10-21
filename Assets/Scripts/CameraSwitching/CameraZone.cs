@@ -1,6 +1,5 @@
 using UnityEngine;
 using Cinemachine;
-using Unity.VisualScripting;
 public class CameraZone : MonoBehaviour
 {
     [SerializeField] CinemachineVirtualCamera zoneCam;
